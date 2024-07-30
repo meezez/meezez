@@ -24,5 +24,4 @@ while(Web_Dev.alive):
 ### ✍️ Daily Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Les stats GitHub de Thibaut](https://github-readme-stats.vercel.app/api?username=meezez)](https://github.com/meezez/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meezez)](https://github.com/anuraghazra/github-readme-stats)
