@@ -1,27 +1,45 @@
-<h1 align="center">Hi 👋, I'm Thibaut Hozanne</h1>
-<h3 align="center">C:\> I am 17 years old</h3>
+<h1 align="center">👋 Yo, I'm Thibaut Hozanne</h1>
+<h3 align="center">C:\> 17 y/o • Lévis, Canada</h3>
 
 ```py
-class meezez():
+class Twoloki():
     
-  def __init__(self):
-    self.username = "meezez";
-    self.location = "Québec, Canada";
-    self.instagram = "@meezez.htz";
-    self.discord = "@twoloki";
+    def __init__(self):
+        self.username = "101knkn_qc"
+        self.name = "Thibaut H."
+        self.age = 17
+        self.location = "Lévis, Canada"
+        self.instagram = "@101knkn_qc"
+        self.discord = "@101knkn_qc"
 
-Web_Dev = meezez()
+    def passions(self):
+        return ["Web Dev", "Radio", "Drone", "Streaming"]
 
-while(Web_Dev.alive):
-    Web_Dev.code()
-```
+    def motto(self):
+        return "Code. Create. Inspire."
 
-- 👑 Director at Sanna
+DevLife = Twoloki()
 
-- ⚡ Fun fact **I started coding at 8 years old**
+while True:
+    DevLife.passions()
+````
 
+---
+
+* 👑 **Director at [SannaScore](https://sannascore.en.gp/)**
+* 🎙️ Régie & Radio **Corsaires - Pointe-Lévy**
+* 🚁 Drone pilot (225g certified 😏)
+* ⚡ Fun fact: **Started coding at 8 years old**
+
+---
+
+### 📊 Stats & Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=101knkn_qc\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### ✍️ Daily Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meezez)](https://github.com/anuraghazra/github-readme-stats)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark)
+
