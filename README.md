@@ -35,7 +35,7 @@ while True:
 
 ### 📊 Stats & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=101knkn_qc\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=101knknqc\&layout=compact\&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
